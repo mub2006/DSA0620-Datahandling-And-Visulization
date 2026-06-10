@@ -1,0 +1,7 @@
+Student_ID,Gender,Age,Course,Study_Time (hrs),Videos_Watched,Quiz_Score,Login_Date
+L01,Male,20,R,3.5,12,78,1/5/2025
+L02,Female,22,R,4.2,15,85,1/5/2025
+L03,Male,19,SQL,2,8,65,2/8/2025
+L04,Female,21,R,5,18,92,2/8/2025
+L05,Male,23,R,2.5,9,70,3/12/2025
+L06,Female,20,SQL,4,14,88,3/12/2025
