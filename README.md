@@ -281,6 +281,86 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
+### Experiment 16: Customer Demographics (Extended)
+
+**Aim:** To deepen demographic segmentation and identify targeted marketing opportunities.
+
+**Procedure:**
+1. Load Customer Demographics Analysis dataset (Customer Demographics Analysis(16).xlsx)
+2. Perform finer demographic binning and cohort analysis
+3. Calculate lifetime value by segment
+4. Visualize segment-wise purchase behavior
+5. Recommend targeted campaigns
+
+**Output:**
+![Experiment 16 Output](images/exp16.png)
+
+---
+
+### Experiment 17: Employee Performance (Extended)
+
+**Aim:** To analyze employee productivity and identify training needs.
+
+**Procedure:**
+1. Load Employee Performance dataset (Employee Performance Analysis(17).xlsx)
+2. Compute performance KPIs and trend analysis
+3. Identify departmental performance gaps
+4. Visualize top/bottom performers and improvement areas
+5. Suggest training/intervention strategies
+
+**Output:**
+![Experiment 17 Output](images/exp17.png)
+
+---
+
+### Experiment 18: Product Inventory Management
+
+**Aim:** To optimize inventory levels and reduce stockouts.
+
+**Procedure:**
+1. Load Product Inventory datasets (Product Inventory Management(18).xlsx)
+2. Calculate turnover, days-of-inventory, and reorder points
+3. Identify slow-moving and fast-moving SKUs
+4. Recommend inventory policies and safety stock
+5. Visualize inventory heatmaps
+
+**Output:**
+![Experiment 18 Output](images/exp18.png)
+
+---
+
+### Experiment 19: Survey Responses Analysis (Extended)
+
+**Aim:** To extract richer insights from extended survey data.
+
+**Procedure:**
+1. Load extended survey dataset (Survey Responses Analysis(19).xlsx)
+2. Perform sentiment and thematic analysis
+3. Cross-tabulate responses with demographics
+4. Visualize key themes and satisfaction drivers
+5. Present prioritized action items
+
+**Output:**
+![Experiment 19 Output](images/exp19.png)
+
+---
+
+### Experiment 20: Stock Analysis
+
+**Aim:** To analyze stock performance and trading indicators for inventory valuation.
+
+**Procedure:**
+1. Load Stock Analysis datasets (Stock Analysis(20).xlsx)
+2. Compute stock metrics and trend indicators
+3. Visualize price/volume trends and moving averages
+4. Assess inventory valuation impacts
+5. Recommend inventory finance optimizations
+
+**Output:**
+![Experiment 20 Output](images/exp20.png)
+
+---
+
 ## 📊 Tools & Technologies Used
 
 - **Tableau** - Data visualization and dashboarding
