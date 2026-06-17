@@ -281,6 +281,86 @@ A comprehensive collection of 15 data science and analytics experiments demonstr
 
 ---
 
+### Experiment 16: Customer Demographics (Extended)
+
+**Aim:** To deepen demographic segmentation and identify targeted marketing opportunities.
+
+**Procedure:**
+1. Load Customer Demographics Analysis dataset (Customer Demographics Analysis(16).xlsx)
+2. Perform finer demographic binning and cohort analysis
+3. Calculate lifetime value by segment
+4. Visualize segment-wise purchase behavior
+5. Recommend targeted campaigns
+
+**Output:**
+![Experiment 16 Output](images/exp16.png)
+
+---
+
+### Experiment 17: Employee Performance (Extended)
+
+**Aim:** To analyze employee productivity and identify training needs.
+
+**Procedure:**
+1. Load Employee Performance dataset (Employee Performance Analysis(17).xlsx)
+2. Compute performance KPIs and trend analysis
+3. Identify departmental performance gaps
+4. Visualize top/bottom performers and improvement areas
+5. Suggest training/intervention strategies
+
+**Output:**
+![Experiment 17 Output](images/exp17.png)
+
+---
+
+### Experiment 18: Product Inventory Management
+
+**Aim:** To optimize inventory levels and reduce stockouts.
+
+**Procedure:**
+1. Load Product Inventory datasets (Product Inventory Management(18).xlsx)
+2. Calculate turnover, days-of-inventory, and reorder points
+3. Identify slow-moving and fast-moving SKUs
+4. Recommend inventory policies and safety stock
+5. Visualize inventory heatmaps
+
+**Output:**
+![Experiment 18 Output](images/exp18.png)
+
+---
+
+### Experiment 19: Survey Responses Analysis (Extended)
+
+**Aim:** To extract richer insights from extended survey data.
+
+**Procedure:**
+1. Load extended survey dataset (Survey Responses Analysis(19).xlsx)
+2. Perform sentiment and thematic analysis
+3. Cross-tabulate responses with demographics
+4. Visualize key themes and satisfaction drivers
+5. Present prioritized action items
+
+**Output:**
+![Experiment 19 Output](images/exp19.png)
+
+---
+
+### Experiment 20: Stock Analysis
+
+**Aim:** To analyze stock performance and trading indicators for inventory valuation.
+
+**Procedure:**
+1. Load Stock Analysis datasets (Stock Analysis(20).xlsx)
+2. Compute stock metrics and trend indicators
+3. Visualize price/volume trends and moving averages
+4. Assess inventory valuation impacts
+5. Recommend inventory finance optimizations
+
+**Output:**
+![Experiment 20 Output](images/exp20.png)
+
+---
+
 ## 📊 Tools & Technologies Used
 
 - **Tableau** - Data visualization and dashboarding
@@ -377,6 +457,166 @@ This project is available for educational and research purposes.
 
 ---
 
-**Last Updated:** June 10, 2026
+### Experiment 21: Energy Consumption Analysis
+
+**Aim:** To analyze energy usage patterns and identify opportunities for efficiency improvements.
+
+**Procedure:**
+1. Load Energy Consumption dataset (Energy Consumption Analysis(21).xlsx)
+2. Clean and normalize consumption data across time
+3. Compute peak/off-peak usage metrics and per-capita consumption
+4. Visualize daily/weekly/monthly usage patterns
+5. Identify inefficiencies and recommend energy-saving measures
+
+**Output:**
+![Experiment 21 Output](images/exp21.png)
+
+---
+
+### Experiment 22: Monthly Sales (Extended)
+
+**Aim:** To extend monthly sales analysis with additional series and comparisons.
+
+**Procedure:**
+1. Load Monthly Sales Analysis datasets (Monthly Sales Analysis(22).xlsx, Monthly Sales Analysis(22.1).xlsx)
+2. Aggregate monthly revenue and units sold
+3. Perform trend decomposition and seasonality analysis
+4. Visualize year-over-year and month-over-month changes
+5. Forecast near-term sales using simple models
+
+**Output:**
+![Experiment 22 Output](images/exp22.png)
+
+---
+
+### Experiment 23: Employee Performance (Additional)
+
+**Aim:** To further analyze employee KPIs and training impacts.
+
+**Procedure:**
+1. Load Employee Performance dataset (Employee Performance(23).xlsx)
+2. Compute productivity, quality, and attendance metrics
+3. Correlate training interventions with performance changes
+4. Visualize department-wise comparisons and trends
+5. Recommend targeted training programs
+
+**Output:**
+![Experiment 23 Output](images/exp23.png)
+
+---
+
+### Experiment 24: Product Inventory Analysis (Extended)
+
+**Aim:** To optimize inventory turnover and stock allocation.
+
+**Procedure:**
+1. Load Product Inventory dataset (Product Inventory(24).xlsx)
+2. Calculate turnover ratios, ABC classification, and days-of-inventory
+3. Identify reorder points and safety stock levels
+4. Visualize SKU performance and warehouse distribution
+5. Recommend stocking policy changes
+
+**Output:**
+![Experiment 24 Output](images/exp24.png)
+
+---
+
+### Experiment 25: Website Traffic (Extended)
+
+**Aim:** To deepen website traffic analysis and conversion insights.
+
+**Procedure:**
+1. Load Website Traffic dataset (Website Traffic(25).xlsx)
+2. Analyze traffic sources, session duration, and bounce rates
+3. Segment high-value visitor cohorts
+4. Visualize funnel conversion and channel performance
+5. Recommend optimizations to improve conversions
+
+**Output:**
+![Experiment 25 Output](images/exp25.png)
+
+---
+
+### Experiment 26: Student Mini Data Analysis
+
+**Aim:** To analyze student performance and identify predictors of success.
+
+**Procedure:**
+1. Load Student Mini Data (Student Mini Data(26).xlsx)
+2. Clean and preprocess academic and demographic variables
+3. Compute performance distributions and correlations
+4. Visualize top predictors of student success
+5. Recommend interventions to improve outcomes
+
+**Output:**
+![Experiment 26 Output](images/exp26.png)
+
+---
+
+### Experiment 27: Patient Health Risk Analysis
+
+**Aim:** To assess patient risk factors and predict health outcomes.
+
+**Procedure:**
+1. Load Patient Health Risk dataset (Patient Health Risk(27).xlsx)
+2. Perform feature engineering on clinical variables
+3. Compute risk scores and stratify patient groups
+4. Visualize risk factor distributions and outcomes
+5. Recommend targeted care pathways
+
+**Output:**
+![Experiment 27 Output](images/exp27.png)
+
+---
+
+### Experiment 28: Vehicle Performance Analysis
+
+**Aim:** To analyze vehicle telemetry and identify performance issues.
+
+**Procedure:**
+1. Load Vehicle Performance dataset (Vehicle Performance(28).xlsx)
+2. Clean time-series telemetry and compute summary metrics
+3. Detect anomalies and failure indicators
+4. Visualize performance by vehicle type and usage
+5. Recommend maintenance schedules
+
+**Output:**
+![Experiment 28 Output](images/exp28.png)
+
+---
+
+### Experiment 29: Student Academic Performance Analysis (Extended)
+
+**Aim:** To deeply analyze academic outcomes and identify improvement areas.
+
+**Procedure:**
+1. Load Student Academic Performance dataset (Student Academic Performance(29).xlsx)
+2. Perform descriptive and predictive analyses
+3. Visualize subject-wise performance trends
+4. Identify at-risk students and success factors
+5. Recommend curriculum or support changes
+
+**Output:**
+![Experiment 29 Output](images/exp29.png)
+
+---
+
+### Experiment 30: Mobile App Usage Analysis
+
+**Aim:** To analyze mobile app engagement and retention metrics.
+
+**Procedure:**
+1. Load Mobile App Usage dataset (Mobile App Usage Analysis(30).xlsx)
+2. Compute DAU/MAU, retention curves, and session metrics
+3. Segment users by behavior and lifetime value
+4. Visualize funnels and cohort retention
+5. Recommend product improvements to boost engagement
+
+**Output:**
+![Experiment 30 Output](images/exp30.png)
+
+---
+
+**Last Updated:** June 16, 2026
 
 For questions or further information about these experiments, please refer to the individual dataset documentation or contact the analysis team.
